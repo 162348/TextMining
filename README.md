@@ -1,2 +1,7 @@
 # TextMining
-contains materials which may possibly become research
+
+国土交通省が発表している[自動車のリコール・不具合情報](https://www.mlit.go.jp/jidosha/carinf/rcl/index.html)を用いて，
+テキストマイニング分野における統計解析のモデル選択を，実例を示しながら議論する．
+
+1. MeCabを用いた形態素解析において，辞書を作った場合とデフォルト辞書のみを用いた場合とでの解析結果の違いと性能差の評価．
+2. 
